@@ -4,9 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js",
-    "start": "node app.js",
-    "build": ""
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "",
+    "start": "",
+    "build": "echo 'No build step required'"
   },
   "keywords": [],
   "author": "",
